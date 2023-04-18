@@ -1,4 +1,4 @@
-# Evidence-Plus-Contract
+# Advanced Data Evidence Contract
 
 [![Smart Contract](https://badgen.net/badge/smart-contract/Solidity/orange)](https://soliditylang.org/) 
 
