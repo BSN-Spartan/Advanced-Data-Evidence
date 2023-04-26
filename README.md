@@ -46,7 +46,7 @@ The upgrade process of the logic contract is as follows:
 Get the smart contract from [GitHub](https://github.com/BSN-Spartan/NFT-Fractional-Contract/tree/main/contracts), or get the source code by command:
 
 ```
-$ git clone 
+$ git clone https://github.com/BSN-Spartan/Advanced-Data-Evidence.git
 ```
 
 For beginners, the contracts in this application can be deployed by the steps in [Spartan Quick Testing](https://www.spartan.bsn.foundation/main/quick-testing#step1).
